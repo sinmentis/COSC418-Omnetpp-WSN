@@ -1,0 +1,2 @@
+Channel Packet Loss: 0
+Mac Packet Loss: 0

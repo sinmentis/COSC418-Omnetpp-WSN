@@ -1,0 +1,4 @@
+packet TransmissionConfirm
+{
+    int status;
+}

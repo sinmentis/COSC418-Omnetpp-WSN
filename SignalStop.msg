@@ -1,0 +1,4 @@
+packet SignalStop
+{
+    int identifier;
+}
