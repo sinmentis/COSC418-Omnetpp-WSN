@@ -1,2 +1,0 @@
-MAC Buffer Packet Loss: 1
-Back off Loss: 1794

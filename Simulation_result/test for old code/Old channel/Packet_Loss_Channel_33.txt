@@ -1,2 +1,0 @@
-Channel Packet Loss: 3571
-Mac Packet Loss: 0

@@ -1,4 +1,0 @@
-      Time timeStamp  senderId    seqNum   msgSize
-
-
-Total Packet Received:      18436
